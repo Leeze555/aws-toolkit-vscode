@@ -1,0 +1,39 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+  
+
+
+
+
+
+  
+  
+
+  advanced
+
+
+
+
+  
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/forla/OneDrive/Documents/Custom Office Templates/.github/workflows/aws-toolkit-vscode/docs/marketplace/vscode/amazonq",
+      "program": "c:/Users/forla/OneDrive/Documents/Custom Office Templates/.github/workflows/aws-toolkit-vscode/docs/marketplace/vscode/amazonq/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
