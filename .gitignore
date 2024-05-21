@@ -58,3 +58,4 @@ packages/*/resources/css/icons.css
 .vscode-test-web
 
 .fake
+*.code-workspace

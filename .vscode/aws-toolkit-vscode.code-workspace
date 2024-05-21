@@ -3,6 +3,9 @@
 		{
 			"name": "aws-toolkit-vscode",
 			"path": ".."
+		},
+		{
+			"path": "../../.vscode"
 		}
 	],
 	"settings": {
